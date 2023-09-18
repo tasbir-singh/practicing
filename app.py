@@ -6,5 +6,5 @@ def substraction(a,b,i):
 
 def division(a,b):
     return a/b
-def addition(c,d,e):
-    return c+d+e
+def addition(c,d,e,f,g):
+    return c+d+e+f+g
